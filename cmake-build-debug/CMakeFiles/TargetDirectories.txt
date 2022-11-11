@@ -1,0 +1,3 @@
+/Users/nguyenthomas/Documents/c++/Nam Nguyen - 498735 - 2022/namnguyen-498735/cmake-build-debug/CMakeFiles/498735-nam-2023.dir
+/Users/nguyenthomas/Documents/c++/Nam Nguyen - 498735 - 2022/namnguyen-498735/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nguyenthomas/Documents/c++/Nam Nguyen - 498735 - 2022/namnguyen-498735/cmake-build-debug/CMakeFiles/rebuild_cache.dir
